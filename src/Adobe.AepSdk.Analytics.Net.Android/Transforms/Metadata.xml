@@ -1,0 +1,4 @@
+﻿<metadata>
+    <remove-node path="/api/package[@name='com.adobe.marketing.mobile.analytics']/class[@name='BuildConfig']" />
+    <remove-node path="/api/package[@name='com.adobe.marketing.mobile.analytics.internal']/class[@name='AnalyticsState']" />
+</metadata>
